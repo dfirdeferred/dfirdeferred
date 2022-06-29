@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @dfirdeferred
 - 👀 I’m interested in ...Hacking, Powershell, Active Directory, Purple Teaming, Cybersecurity
-- 🌱 I’m currently learning ...Exploit development and Reverse Engineering
 - 📫 How to reach me ... 
-Twitter @dfirdeferred
+
+Twitter: @dfirdeferred
 Site: www.menrva-tech.com
+www.linkedin.com/in/dbaker-cissp-ceh
 
 
